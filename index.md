@@ -4,22 +4,27 @@ layout: default
 
 #  Resume
 
-<img style="float:right;border-radius:50%;width:140px;padding:6px" src="avatar_result1.png" />
+<img style="float:left;border-radius:50%;width:140px;padding:6px" src="avatar_result1.png" />
 
 ## Gabriela Barrera  
 
-Results-driven leader skilled in strategic analysis, systems thinking, and cross-functional collaboration. Depth and expertise in conducting executive briefs, influencing strategy, and driving operational excellence using data analysis and modeling
+Results-driven leader skilled in strategic analysis, systems thinking, and cross-functional collaboration. Depth and expertise in conducting executive briefs, influencing strategy, and driving operational excellence using data analysis and modeling,
 
-## Working Experience
+## Professional Experience
 
-#### U.S. Army (Analyst, Project Manager, 2019/07 - present) 
+#### U.S. Army (Analyst, 2022/11 - present) 
 
 * Led analysis in machine learning, optimization techniques, wargames, and modeling.
-* Innovator and communicator, ensured team success and deployment of technologies and products.
+* Developed products and tools with creative visualizations and application of statistical methods, predictive modeling, and decision science.
+
+#### U.S. Army (Project Manager, 2019/07 - 2022/11) 
+
+* Led teams of technical experts in providing product and service delivery in complex and ambigous environments.
+* Developed innovative strategies and systems approach solutions to technical requirements and personnel management.
 
 #### MIT Lincoln Lab (Student Researcher, 2017/06 - 2019/07) 
 
-* Directed design of novel use cases of technology for humanitarian assistance and disaster response.
+* Directed design, testing, and evaluation of novel technologies for humanitarian assistance and disaster response.
 * Completed research in user-based design, machine learning, and remote sensing. 
 
 ## Projects: 
@@ -29,7 +34,7 @@ Results-driven leader skilled in strategic analysis, systems thinking, and cross
 ## Education & Qualifications
 
 * Google UX Design, Certification (In Progress)
-* Applied Data Science Program, Certificate (2023)
+* Applied Data Science Program, MIT, Certificate (2023)
 * M.S. Mechanical Engineering, MIT (2019)
 * M.S. Technology and Policy, MIT (2019)
 * B.S. Mechanical Engineering, USMA @ West Point, NY (2017)
@@ -42,6 +47,6 @@ Results-driven leader skilled in strategic analysis, systems thinking, and cross
 ## Misc. Information
 
 * Languages: English, Spanish (fluent/native)
-* Volunteer: Women in Technology, Rosie Riveters
+* Volunteer Experience: Women in Technology, Rosie Riveters
 * Availability: May 2025
 
