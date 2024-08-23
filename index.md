@@ -8,7 +8,7 @@ layout: default
 
 # Gabriela Barrera
 
-Results-driven leader skilled in strategic analysis, systems thinking, and cross-functional collaboration. Depth and expertise in conducting executive briefs, influencing strategy, and driving operational excellence using data analysis and modeling,
+Results-driven leader skilled in strategic analysis, systems thinking, and cross-functional collaboration. Depth and expertise in conducting executive briefs, influencing strategy, and driving operational excellence using data analysis and modeling.
 
 ## Professional Experience
 
