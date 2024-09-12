@@ -29,7 +29,7 @@ Results-driven leader skilled in strategic analysis, systems thinking, and cross
 
 ## Projects: 
 
-* 1st Place, Coding Challenge, [HuggingFace-AI Challenge](https://huggingface.co/gcbar/humane_ai/tree/main) - evaluate evaluate bias in AI tools
+* 1st Place, Coding Challenge [HuggingFace-AI Challenge](https://huggingface.co/gcbar/humane_ai/tree/main) - evaluate bias in AI tools
 
 ## Education & Qualifications
 
