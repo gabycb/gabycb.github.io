@@ -30,6 +30,8 @@ Results-driven leader skilled in strategic analysis, systems thinking, and cross
 ## Projects: 
 
 * 1st Place, Coding Challenge [HuggingFace-AI Challenge](https://huggingface.co/gcbar/humane_ai/tree/main) - evaluate bias in AI tools
+* mBot2 Robotics and Coding Guide for STEM outreach for girls
+* Military Transition Guide Github (TBP)
 
 ## Education & Qualifications
 
@@ -40,7 +42,8 @@ Results-driven leader skilled in strategic analysis, systems thinking, and cross
 * B.S. Mechanical Engineering, USMA @ West Point, NY (2017)
 
 ## Conferences and Publications
-* Primary Presenter, Army Operations Research Science Symposium (2023)
+* Presenter, Army Operations Research Symposium (2024)
+* Keynote Presenter, Army Operations Research Science Symposium (2023)
 * Presenter, 91st Military Operations Research Science Symposium (2023)
 * Presenter, 16th International Conference on Information Systems for Crisis Response and Management (2019)
 
