@@ -2,11 +2,11 @@
 layout: default
 ---
 
-##  Resume
+#  Gaby Barrera Resume
 
 <img style="float:left;border-radius:50%;width:140px;padding:6px" src="avatar_result1.png" />
 
-# Gabriela Barrera
+# TL;DR
 
 Results-driven leader skilled in strategic analysis, systems thinking, and cross-functional collaboration. Depth and expertise in conducting executive briefs, influencing strategy, and driving operational excellence using data analysis.
 
