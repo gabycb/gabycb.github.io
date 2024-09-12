@@ -8,7 +8,7 @@ layout: default
 
 # Gabriela Barrera
 
-Results-driven leader skilled in strategic analysis, systems thinking, and cross-functional collaboration. Depth and expertise in conducting executive briefs, influencing strategy, and driving operational excellence using data analysis and modeling.
+Results-driven leader skilled in strategic analysis, systems thinking, and cross-functional collaboration. Depth and expertise in conducting executive briefs, influencing strategy, and driving operational excellence using data analysis.
 
 ## Professional Experience
 
@@ -29,7 +29,7 @@ Results-driven leader skilled in strategic analysis, systems thinking, and cross
 
 ## Projects: 
 
-* [HuggingFace-AI Challenge](https://huggingface.co/gcbar/humane_ai/tree/main) - code to train a model and evaluate bias in AI tools
+* 1st Place, Coding Challenge, [HuggingFace-AI Challenge](https://huggingface.co/gcbar/humane_ai/tree/main) - evaluate evaluate bias in AI tools
 
 ## Education & Qualifications
 
