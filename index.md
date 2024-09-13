@@ -6,7 +6,7 @@ layout: default
 
 <img style="float:left;border-radius:50%;width:140px;padding:6px" src="avatar_result1.png" />
 
-## [Linkedin](www.linkedin.com/in/gabriela-c-barrera)
+## [Linkedin](https://www.linkedin.com/in/gabriela-c-barrera)
 
 Results-driven leader skilled in strategic analysis, systems thinking, and cross-functional collaboration. Depth and expertise in conducting executive briefs, influencing strategy, and driving operational excellence using data analysis.
 
