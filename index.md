@@ -33,15 +33,14 @@ Results-driven leader skilled in strategic analysis, systems thinking, and cross
 * mBot2 Robotics and Coding Guide for STEM outreach for girls
 * Military Transition Guide Github (TBP)
 
-## Education & Qualifications
-
-* Google UX Design, Certification (In Progress)
-* Applied Data Science Program, MIT, Certificate (2023)
+## Education
 * M.S. Mechanical Engineering, MIT (2019)
 * M.S. Technology and Policy, MIT (2019)
 * B.S. Mechanical Engineering, USMA @ West Point, NY (2017)
 
-## Conferences and Publications
+## Certifications and Publications
+* Google UX Design, Certification (In Progress)
+* Applied Data Science Program, MIT, Certificate (2023)
 * Presenter, Army Operations Research Symposium (2024)
 * Keynote Presenter, Army Operations Research Science Symposium (2023)
 * Presenter, 91st Military Operations Research Science Symposium (2023)
