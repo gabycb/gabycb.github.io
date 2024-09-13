@@ -27,7 +27,7 @@ Results-driven leader skilled in strategic analysis, systems thinking, and cross
 * Directed design, testing, and evaluation of novel technologies for humanitarian assistance and disaster response.
 * Completed research in user-based design, machine learning, and remote sensing. 
 
-## Projects: 
+## Projects 
 
 * [1st Place, Advanced](https://www.humane-intelligence.org/bias-bounty) Coding Challenge to evaluate bias in AI tools, [HuggingFace-AI Workspace](https://huggingface.co/gcbar/humane_ai/tree/main)
 * mBot2 Robotics and Coding Guide for STEM outreach for girls
