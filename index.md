@@ -50,5 +50,5 @@ Results-driven leader skilled in strategic analysis, systems thinking, and cross
 
 * Languages: English, Spanish (fluent/native)
 * Volunteer Experience: Women in Technology, Rosie Riveters
-* Availability: May 2025
+* Open to Work: May 2025, contact [gabriela.c.barreragutierrez@gmail.com](mailto:gabriela.c.barreragutierrez@gmail.com)
 
