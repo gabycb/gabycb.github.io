@@ -30,7 +30,7 @@ Results-driven leader skilled in strategic analysis, systems thinking, and cross
 ## Projects 
 
 * [1st Place, Advanced](https://www.humane-intelligence.org/bias-bounty) Coding Challenge to evaluate bias in AI tools, [HuggingFace-AI Workspace](https://huggingface.co/gcbar/humane_ai/tree/main)
-* mBot2 Robotics and Coding Guide for STEM outreach for girls
+* mBot2 Robotics and Coding Guide for STEM outreach, Girls in Technology (GIT) Workshop
 * Military Transition Guide Github (TBP)
 
 ## Education
@@ -49,6 +49,6 @@ Results-driven leader skilled in strategic analysis, systems thinking, and cross
 ## Misc. Information
 
 * Languages: English, Spanish (fluent/native)
-* Volunteer Experience: Women in Technology, Rosie Riveters
+* Volunteer Experience: Women in Technology, Girls in Technology, Rosie Riveters
 * Open to Work: May 2025, contact [gabriela.c.barreragutierrez@gmail.com](mailto:gabriela.c.barreragutierrez@gmail.com)
 
