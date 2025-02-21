@@ -30,8 +30,10 @@ Results-driven leader skilled in strategic analysis, systems thinking, and cross
 ## Projects 
 
 * [1st Place, Advanced](https://www.humane-intelligence.org/bias-bounty) Coding Challenge to evaluate bias in AI tools, [HuggingFace-AI Workspace](https://huggingface.co/gcbar/humane_ai/tree/main)
+* [1st Place, Intermediate](https://www.humane-intelligence.org/bias-bounty-challenge-2) Coding Challenge to uncover hidden extremist propaganda
 * mBot2 Robotics and Coding [Guide](https://drive.google.com/file/d/1PgIx9vGf2ZTMpkIDfE9Ejh91_0jb8aVs/view?usp=sharing) for STEM outreach, Girls in Technology (GIT) Workshop 
 * Military Transition Guide Github (TBP)
+* HuggingFace AI Agent Course and Projects (TBP)
 
 ## Education
 * M.S. Mechanical Engineering, MIT (2019)
