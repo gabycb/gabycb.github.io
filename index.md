@@ -39,6 +39,7 @@ Strategic technology leader and analyst at US Army headquarters, specializing in
 * mBot2 Robotics and Coding [Guide](https://drive.google.com/file/d/1PgIx9vGf2ZTMpkIDfE9Ejh91_0jb8aVs/view?usp=sharing) for STEM outreach, Girls in Technology (GIT) Workshop 
 * Military Transition Guide Github (TBP)
 * HuggingFace AI Agent Course and Projects (TBP)
+* Hacking for Freedom: Hackathon to Stop Sex Trafficking, 3rd PLace, Hosted by MIT Innovation Initiative and The Freedom Lab
 
 ## Education
 * M.S. Mechanical Engineering, MIT (2019)
@@ -50,13 +51,14 @@ Strategic technology leader and analyst at US Army headquarters, specializing in
 * Microsoft Azure Data Fundamentals, [View Credential](https://learn.microsoft.com/en-us/users/gabrielabarreragutierrez-2873/transcript/d9mj8trqr5335ee]
 * Google UX Design, Certification (In Progress)
 * Applied Data Science Program, MIT, Certificate (2023)
+* Barrera, G and Yang, M, "Evaluation of Digital Volunteers using a Design Approach: Motivations and Contributions in Disaster Response," Proceedings of the 16th International Conference on Information Systems for Crisis Response And Management, 2019. [View Here](https://idl.iscram.org/files/gabrielacbarrera/2019/1970_GabrielaCBarrera+MariaCYang2019.pdf)
 
 ## Awards and Presentations
-* Red-Teamer, applied PyRIT and ML libraries, Conference on Applied Machine Learning in Information Security (CAMLIS)
-* Presenter, Army Operations Research Symposium (2024)
-* Army Analysis of the Year Award, Army Operations Research Symposium, part of team of 12 (2023)
-* Keynote Presenter, Army Operations Research Science Symposium (2023)
-* Presenter, 91st Military Operations Research Science Symposium (2023)
+* Red-Teamer, Conference on Applied Machine Learning in Information Security (CAMLIS)
+* Presenter, "Scenario Planning and Policy for Risk Mitigation, Wargaming," Army Operations Research Symposium (2024)
+* Army Operations Research Symposium Dr. Wilbur B. Payne Award, Army analysis of the year as part of team of 12 (2023)
+* Keynote Presenter, "Operations Analysis Research for Strategic Decisions in the Army," Army Operations Research Science Symposium (2023)
+* Presenter, "Wargaming Methods and Key Lessons for Design and Development," 91st Military Operations Research Science Symposium (2023)
 * Presenter, 16th International Conference on Information Systems for Crisis Response and Management (2019)
 * National Science Foundation Graduate Research Fellowship (2017-2019)
 
