@@ -8,9 +8,12 @@ layout: default
 
 ## [Linkedin](https://www.linkedin.com/in/gabriela-c-barrera)
 
-Results-driven leader skilled in strategic analysis, systems thinking, and cross-functional collaboration. Depth and expertise in conducting executive briefs, influencing strategy, and driving operational excellence using data analysis.
+Strategic technology leader and analyst at US Army headquarters, specializing in data-driven decision making at the intersection of AI, strategy, and policy. Strong background in data analysis, software engineering, project management, and leadership. Proven ability to apply statistics, machine learning, and stakeholder engagement to solve complex problems and shape executive-level strategy across roles at Microsoft, NASA, MIT, Humane Intelligence and government sectors. 
 
 ## Professional Experience
+
+#### Microsoft Internship (Data Scientist, 2025/01 - present)
+* Leveraged unsupervised learning techniques and ML libraries (TensorFlow, PyTorch) to improve model accuracy, quickly onboarding to team during internship and delivering AI tool two weeks ahead of schedule.
 
 #### U.S. Army (Analyst, 2022/11 - present) 
 
@@ -27,7 +30,7 @@ Results-driven leader skilled in strategic analysis, systems thinking, and cross
 * Directed design, testing, and evaluation of novel technologies for humanitarian assistance and disaster response.
 * Completed research in user-based design, machine learning, and remote sensing. 
 
-## Projects 
+## Projects
 
 * [1st Place, Advanced](https://www.humane-intelligence.org/bias-bounty) Coding Challenge to evaluate bias in AI tools, [HuggingFace-AI Workspace](https://huggingface.co/gcbar/humane_ai/tree/main)
 * [1st Place, Intermediate](https://www.humane-intelligence.org/bias-bounty-challenge-2) Coding Challenge to uncover hidden extremist propaganda
@@ -41,12 +44,19 @@ Results-driven leader skilled in strategic analysis, systems thinking, and cross
 * B.S. Mechanical Engineering, USMA @ West Point, NY (2017)
 
 ## Certifications and Publications
+* Google Cloud Digital Leader, [View Credential](https://www.credly.com/badges/97c3ecca-8163-469d-b827-ab37cf3f2ca1/public_url)
+* Microsoft Azure Data Fundamentals, [View Credential](https://learn.microsoft.com/en-us/users/gabrielabarreragutierrez-2873/transcript/d9mj8trqr5335ee]
 * Google UX Design, Certification (In Progress)
 * Applied Data Science Program, MIT, Certificate (2023)
+
+## Awards and Presentations
+* Red-Teamer, applied PyRIT and ML libraries, Conference on Applied Machine Learning in Information Security (CAMLIS)
 * Presenter, Army Operations Research Symposium (2024)
+* Army Analysis of the Year Award, Army Operations Research Symposium, part of team of 12 (2023)
 * Keynote Presenter, Army Operations Research Science Symposium (2023)
 * Presenter, 91st Military Operations Research Science Symposium (2023)
 * Presenter, 16th International Conference on Information Systems for Crisis Response and Management (2019)
+* National Science Foundation Graduate Research Fellowship (2017-2019)
 
 ## Misc. Information
 
