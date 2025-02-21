@@ -2,7 +2,7 @@
 layout: default
 ---
 Access [https://gabycb.github.io/](https://gabycb.github.io/)
-#  Gaby Barrera Resume
+#  Resume and Projects
 
 <img style="float:left;border-radius:50%;width:140px;padding:6px" src="avatar_result1.png" />
 
