@@ -14,6 +14,7 @@ Strategic technology leader and analyst at US Army headquarters, specializing in
 
 #### Microsoft Internship (Data Scientist, 2025/01 - present)
 * Leveraged unsupervised learning techniques and ML libraries (TensorFlow, PyTorch) to improve model accuracy, quickly onboarding to team during internship and delivering AI tool two weeks ahead of schedule.
+  
 #### NASA Internship (Systems Analyst, 2024/12 - present)
 * Developed Python-based visualizations for NASA proprietary application platform using database queries, machine learning and statistical tools, successfully integrating 20+ regulatory requirements across 140+ missions.
 
@@ -47,16 +48,16 @@ Strategic technology leader and analyst at US Army headquarters, specializing in
 * B.S. Mechanical Engineering, USMA @ West Point, NY (2017)
 
 ## Certifications and Publications
-* Google Cloud Digital Leader, [View Credential](https://www.credly.com/badges/97c3ecca-8163-469d-b827-ab37cf3f2ca1/public_url)
-* Microsoft Azure Data Fundamentals, [View Credential](https://learn.microsoft.com/en-us/users/gabrielabarreragutierrez-2873/transcript/d9mj8trqr5335ee)
+* Google Cloud Digital Leader, 2025 [View Credential](https://www.credly.com/badges/97c3ecca-8163-469d-b827-ab37cf3f2ca1/public_url)
+* Microsoft Azure Data Fundamentals, 2025 [View Credential](https://learn.microsoft.com/en-us/users/gabrielabarreragutierrez-2873/transcript/d9mj8trqr5335ee)
 * Google UX Design, Certification (In Progress)
 * Python for Data Science, AI & Development, 2024 [View Credential](https://www.coursera.org/account/accomplishments/certificate/8TQH7GUAGCWS)
 * Generative AI: Introductions and Applications, 2024 [View Credential](https://coursera.org/verify/9U5X2BFWA7EU)
 * Applied Data Science Program, MIT, Certificate (2023) [View Credential](https://credentials.professional.mit.edu/3292759c-fc4b-42fc-92ca-b739f7c53c18)
-* Barrera, G and Yang, M, "Evaluation of Digital Volunteers using a Design Approach: Motivations and Contributions in Disaster Response," Proceedings of the 16th International Conference on Information Systems for Crisis Response And Management, 2019. [View Here](https://idl.iscram.org/files/gabrielacbarrera/2019/1970_GabrielaCBarrera+MariaCYang2019.pdf)
+* Barrera, G and Yang, M, "Evaluation of Digital Volunteers using a Design Approach: Motivations and Contributions in Disaster Response," Proceedings of the 16th International Conference on Information Systems for Crisis Response And Management, 2019. [View Publication](https://idl.iscram.org/files/gabrielacbarrera/2019/1970_GabrielaCBarrera+MariaCYang2019.pdf)
 
 ## Awards and Presentations
-* Red-Teamer, Conference on Applied Machine Learning in Information Security (CAMLIS)
+* Red-Teamer, Conference on Applied Machine Learning in Information Security (CAMLIS) 2024
 * Presenter, "Scenario Planning and Policy for Risk Mitigation, Wargaming," Army Operations Research Symposium (2024)
 * Army Operations Research Symposium Dr. Wilbur B. Payne Award, Army analysis of the year as part of team of 12 (2023)
 * Keynote Presenter, "Operations Analysis Research for Strategic Decisions in the Army," Army Operations Research Science Symposium (2023)
@@ -67,6 +68,6 @@ Strategic technology leader and analyst at US Army headquarters, specializing in
 ## Misc. Information
 
 * Languages: English, Spanish (fluent/native)
-* Volunteer Experience: Women in Technology, Girls in Technology, Rosie Riveters
+* Volunteer Experience: Women in Technology, Girls in Technology, Rosie Riveters, Children's Science Center Lab 
 * Open to Work: May 2025, contact [gabriela.c.barreragutierrez@gmail.com](mailto:gabriela.c.barreragutierrez@gmail.com)
 
