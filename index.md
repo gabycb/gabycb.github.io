@@ -14,7 +14,7 @@ Strategic technology leader and analyst at US Army headquarters, specializing in
 
 #### Microsoft Internship (Data Scientist, 2025/01 - present)
 * Leveraged unsupervised learning techniques and ML libraries (TensorFlow, PyTorch) to improve model accuracy, quickly onboarding to team during internship and delivering AI tool two weeks ahead of schedule.
-### NASA Internship (Systems Analyst, 2024/12 - present)
+#### NASA Internship (Systems Analyst, 2024/12 - present)
 * Developed Python-based visualizations for NASA proprietary application platform using database queries, machine learning and statistical tools, successfully integrating 20+ regulatory requirements across 140+ missions.
 
 #### U.S. Army (Analyst, 2022/11 - present) 
