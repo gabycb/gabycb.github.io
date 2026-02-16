@@ -8,17 +8,17 @@ Access [https://gabycb.github.io/](https://gabycb.github.io/)
 
 ## [Linkedin](https://www.linkedin.com/in/gabriela-c-barrera)
 
-Strategic technology leader and analyst at US Army headquarters, specializing in data-driven decision making at the intersection of AI, strategy, and policy. Strong background in data analysis, software engineering, project management, and leadership. Proven ability to apply statistics, machine learning, and stakeholder engagement to solve complex problems and shape executive-level strategy across roles at Microsoft, NASA, MIT, Humane Intelligence and government sectors. 
+Strategic technology leader in Senior Cloud Solution Architect role at Microsoft. I help enterprise customers become frontier and implement the latest in agents and AI at scale and securely, including financial services companies with stringent regulations and privacy policies. I have a strong background in data analysis, project management, and leadership across roles at Microsoft, NASA, MIT, Humane Intelligence and government sectors. 
 
 ## Professional Experience
 
-#### Microsoft Internship (Data Scientist, 2025/01 - present)
-* Leveraged unsupervised learning techniques and ML libraries (TensorFlow, PyTorch) to improve model accuracy, quickly onboarding to team during internship and delivering AI tool two weeks ahead of schedule.
+#### Microsoft (Cloud Solution Architect, 2025/05 - present)
+* Led strategic customers and on enterprise initiatives to transform industries by implementing the latest in frontier technology, including generative AI tools, multi-agent systems, custom models and monitoring, and responsible AI governance.
   
-#### NASA Internship (Systems Analyst, 2024/12 - present)
+#### NASA Internship (Systems Analyst, 2024/12 - 2025/04)
 * Developed Python-based visualizations for NASA proprietary application platform using database queries, machine learning and statistical tools, successfully integrating 20+ regulatory requirements across 140+ missions.
 
-#### U.S. Army (Analyst, 2022/11 - present) 
+#### U.S. Army (Analyst, 2022/11 - 2025/05) 
 
 * Led analysis in machine learning, optimization techniques, wargames, and modeling.
 * Developed products and tools with creative visualizations and application of statistical methods, predictive modeling, and decision science.
@@ -35,6 +35,7 @@ Strategic technology leader and analyst at US Army headquarters, specializing in
 
 ## Projects
 
+* 1st Place, Microsoft 2025 Hackathon, project in Hack for Good with a Nonprofit Category. Built local LLM-system and proof-of-value AI chatbot for [Street Grace](https://www.streetgrace.org/our-work-overview) nonprofit.
 * [1st Place, Advanced](https://www.humane-intelligence.org/bias-bounty) Coding Challenge to evaluate bias in AI tools, [HuggingFace-AI Workspace](https://huggingface.co/gcbar/humane_ai/tree/main)
 * [1st Place, Intermediate](https://www.humane-intelligence.org/bias-bounty-challenge-2) Coding Challenge to uncover hidden extremist propaganda
 * mBot2 Robotics and Coding [Guide](https://drive.google.com/file/d/1PgIx9vGf2ZTMpkIDfE9Ejh91_0jb8aVs/view?usp=sharing) for STEM outreach, Girls in Technology (GIT) Workshop 
@@ -69,5 +70,5 @@ Strategic technology leader and analyst at US Army headquarters, specializing in
 
 * Languages: English, Spanish (fluent/native)
 * Volunteer Experience: Women in Technology, Girls in Technology, Rosie Riveters, Children's Science Center Lab 
-* Open to Work: May 2025, contact [gabriela.c.barreragutierrez@gmail.com](mailto:gabriela.c.barreragutierrez@gmail.com)
+* Professional contact [gabriela.c.barreragutierrez@gmail.com](mailto:gabriela.c.barreragutierrez@gmail.com)
 
