@@ -6,11 +6,8 @@ layout: default
 <section class="hero-bg">
   <div class="overlay"></div>
   <div class="hero-content">
-    <h1>Gabriela Barrera</h1>
-    <p class="lead">AI Systems • Strategic Technology • Decision Intelligence</p>
-    <p class="tagline">
-      Designing AI-enabled decision systems for complex, high-stakes environments.
-    </p>
+    <h1>Gaby Barrera Gutierrez</h1>
+    <p class="lead">AI Systems Expert • Author • Tech Leader</p>
     <div class="hero-links">
       <a href="https://www.linkedin.com/in/gabriela-c-barrera">LinkedIn</a>
       <a href="/about">About</a>
@@ -22,6 +19,10 @@ layout: default
 
 <!-- Section: What I Do -->
 <section class="block work">
+  <p class="tagline">
+      Designing AI-enabled decision systems for complex, high-stakes environments.
+      I write and lead, and sometimes code.
+    </p>
   <h2>What I Do</h2>
   <p class="block-text">
     Systems thinking at scale — integrating AI, secure architectures, optimization, and real-world operational constraints to deliver strategic solutions.
