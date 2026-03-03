@@ -10,7 +10,7 @@ title: Projects
 </section>
 <section class="gallery">
   <!-- Veteran Tech Transition Tool -->
-  <div class="gallery-item featured">
+  <div class="gallery-item featured" style="background: white; padding: 2rem; border-radius: 8px;>
     <div class="gallery-text">
       <h2>Veteran Tech Transition Tool</h2>
       <p>
@@ -64,5 +64,6 @@ title: Projects
       <p>Modular robotics instruction for Girls in Technology workshops.</p>
     </div>
   </div>
+    <p><a href="/index">Home</a></p>
 </section>
 
