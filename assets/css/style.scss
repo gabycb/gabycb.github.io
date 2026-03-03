@@ -8,47 +8,73 @@ body {
   background: #FBFBF8;
 }
 
-/* Hero Panel */
-.hero {
+/* ===== Hero Background Section ===== */
+
+.hero-bg {
+  position: relative;
+  height: 100vh;
+  background-image: url("/avatar_result1.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
   display: flex;
-  flex-direction: column;
   align-items: center;
+  justify-content: center;
+}
+
+/* Dark overlay for readability */
+.overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(20, 25, 24, 0.55); /* adjust transparency here */
+}
+
+/* Content in front */
+.hero-content {
+  position: relative;
   text-align: center;
-  padding: 120px 24px 60px;
+  color: #ffffff;
+  max-width: 800px;
+  padding: 20px;
+  z-index: 2;
 }
 
-.hero-img {
-  width: 180px;
-  border-radius: 50%;
-  margin-bottom: 32px;
-  border: 2px solid #2F5D50;
-}
-
-.hero h1 {
+.hero-content h1 {
   font-family: 'Playfair Display', serif;
-  font-size: 3rem;
-  margin: 0;
-  color: #1b1b1f;
+  font-size: 3.5rem;
+  margin-bottom: 12px;
 }
 
-.hero .lead {
-  font-size: 1.4rem;
-  margin-top: 8px;
-  color: #2F5D50;
+.hero-content .lead {
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+  font-weight: 500;
+  opacity: 0.9;
 }
 
-.hero .tagline {
-  margin-top: 20px;
-  font-size: 1.1rem;
-  max-width: 600px;
-  color: #4a4a4d;
+.hero-content .tagline {
+  font-size: 1.2rem;
+  margin-bottom: 30px;
+  line-height: 1.6;
+  opacity: 0.85;
 }
 
-.hero .links a {
-  margin: 0 12px;
-  font-weight: 600;
-  color: #2F5D50;
+.hero-links a {
+  margin: 0 15px;
+  color: #ffffff;
   text-decoration: none;
+  font-weight: 600;
+  border-bottom: 1px solid rgba(255,255,255,0.6);
+  transition: all 0.2s ease;
+}
+
+.hero-links a:hover {
+  border-bottom: 1px solid #ffffff;
+}
+
+/* Remove Cayman header block completely */
+.page-header {
+  display: none;
 }
 
 /* Sections */
