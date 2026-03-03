@@ -28,7 +28,7 @@ title: Projects
         target="_blank"
         style="
           position: absolute;
-          bottom: 16px;
+          top: 16px;
           right: 16px;
           background: #c05c3a;
           color: white;
