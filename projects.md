@@ -17,7 +17,7 @@ title: Projects
         AI-powered resource built on real lessons from veterans who made the leap to big tech and startups. Ask anything — roles, resume, networking, interviews, compensation.
       </p>
     </div>
-    <div class="embed-container" style="position: relative;">
+    <div style="position: relative; max-width: 500px;">
       <img
         src="/veteran-tool-preview.png"
         alt="Veteran Tech Transition Tool Preview"
