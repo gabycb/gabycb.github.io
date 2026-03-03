@@ -22,10 +22,10 @@ layout: default
 <section class="block work">
   <h2>What I Do</h2>
   <p class="tagline">
-      I design AI-enabled decision systems for complex, high-stakes and emerging problems. In my day job at Microsoft, this is for regulated industries and enterprises responsible for financial services around the world. In my free time, this is for bias detection and STEM outreach. I write and lead, and sometimes I also code.
+      I design AI-enabled decision systems for complex, high-stakes and emerging problems. In my day job at Microsoft, this is for regulated industries and enterprises responsible for financial services around the world. In my other projects, this is for bias detection and STEM outreach. I write and lead, and sometimes I also code.
     </p>
   <p class="block-text">
-    I am a technology leader with experience at Microsoft, NASA, MIT, and the Department of Defense. At MIT, I studied product design and machine learning for disaster response technology development, with some of my work published <a href="https://dspace.mit.edu/handle/1721.1/122221" target="_blank">here</a>. In the military, I led cross-functional teams and analytical studies. In the tech world now, I lead enterprise-level transformations for companies to become frontier and implement the latest in AI and agents at scale, follow my best practices and the latest on AI via my <a href="https://medium.com/@gabycbarrera" target="_blank">Medium page</a>. I work with various organizations for research on bias detection in algorithms and for outreach and community development in STEM programs. <br>
+    While not working, I am writing the latest on AI via my <a href="https://medium.com/@gabycbarrera" target="_blank">Medium page</a> or reading to reach my goal of 75 books this year. I also write, post, and speak at conferences on educational outreach because I believe everyone - no matter what age, gender, background, or what anyone else says - can and should reach for their dreams. I did this when my parents moved my family to the US, and I ended up reaching my dreams and beyond by getting to work at Microsoft, NASA, MIT, and the national government. Let's keep going, si se puede. <br>
   </p>
 </section>
 
