@@ -19,6 +19,13 @@ body {
   color: #1b1b1f;
 }
 
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  background: rgba(20, 28, 25, 0.55); /* adjust darkness here */
+  z-index: -1;
+}
 .page-header {
   display: none;
 }
