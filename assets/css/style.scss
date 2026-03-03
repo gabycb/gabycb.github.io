@@ -103,6 +103,7 @@ body::before {
   font-family: 'Playfair Display', serif;
   font-size: 3rem;
   margin-bottom: 16px;
+  color: #26b1f1;
 }
 
 .gallery-hero p {
@@ -204,4 +205,22 @@ a:hover {
   .gallery-hero h1 {
     font-size: 2.2rem;
   }
+}
+
+.demo-btn {
+  display: inline-block;
+  background: #c05c3a;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-family: monospace;
+  font-size: 0.8rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.demo-btn:hover {
+  background: #9e4228;
+  color: white;
 }
