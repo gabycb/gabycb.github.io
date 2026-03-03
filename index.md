@@ -3,18 +3,18 @@ layout: default
 ---
 
 <!-- Hero Panel -->
-<section class="hero">
-  <img src="avatar_result1.png" class="hero-img" alt="Gabriela Barrera" />
-  <div class="hero-text">
+<section class="hero-bg">
+  <div class="overlay"></div>
+  <div class="hero-content">
     <h1>Gabriela Barrera</h1>
     <p class="lead">AI Systems • Strategic Technology • Decision Intelligence</p>
     <p class="tagline">
-      I design AI and system architectures that help organizations make better decisions in complex, constrained environments.
+      Designing AI-enabled decision systems for complex, high-stakes environments.
     </p>
-    <p class="links">
-      <a href="https://www.linkedin.com/in/gabriela-c-barrera">LinkedIn</a> ·
+    <div class="hero-links">
+      <a href="https://www.linkedin.com/in/gabriela-c-barrera">LinkedIn</a>
       <a href="/about">About</a>
-    </p>
+    </div>
   </div>
 </section>
 
