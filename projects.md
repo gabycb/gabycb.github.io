@@ -64,6 +64,6 @@ title: Projects
       <p>Modular robotics instruction for Girls in Technology workshops.</p>
     </div>
   </div>
-    <p><a href="/index">Home</a></p>
+    <p>Back to <a href="/index">Home</a></p>
 </section>
 
