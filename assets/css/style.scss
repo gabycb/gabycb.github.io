@@ -10,9 +10,13 @@
 body {
   margin: 0;
   font-family: 'Inter', sans-serif;
-  background: #FBFBF8;
+  background-image: url("{{ '/assets/images/avatar_result1.png' | relative_url }}");
+  background-size: cover;
+  background-position: center;
+  background-attachment: scroll; /* important */
+  background-repeat: no-repeat;
+  background-color: #1c1f1e; /* fallback */
   color: #1b1b1f;
-  line-height: 1.6;
 }
 
 .page-header {
