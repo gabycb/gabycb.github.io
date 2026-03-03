@@ -8,6 +8,7 @@ plugins:
 
 header_pages:
   - index.md
+  - projects.md
   - about.md
 
 markdown: kramdown
