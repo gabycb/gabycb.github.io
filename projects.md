@@ -10,14 +10,14 @@ title: Projects
 </section>
 <section class="gallery">
   <!-- Veteran Tech Transition Tool -->
-  <div class="gallery-item featured" style="background: white; padding: 2rem; border-radius: 8px;>
+  <div class="gallery-item featured">
     <div class="gallery-text">
       <h2>Veteran Tech Transition Tool</h2>
       <p>
         AI-powered resource built on real lessons from veterans who made the leap to big tech and startups. Ask anything — roles, resume, networking, interviews, compensation.
       </p>
     </div>
-    <div style="position: relative; max-width: 500px;">
+    <div style="position: relative; max-width: 800px;">
       <img
         src="/veteran-tool-preview.png"
         alt="Veteran Tech Transition Tool Preview"
