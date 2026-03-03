@@ -25,8 +25,7 @@ layout: default
       I design AI-enabled decision systems for complex, high-stakes and emerging problems. In my day job at Microsoft, this is for regulated industries and enterprises responsible for financial services around the world. In my free time, this is for bias detection and STEM outreach. I write and lead, and sometimes I also code.
     </p>
   <p class="block-text">
-    I am a technology leader with experience at Microsoft, NASA, MIT, and the Department of Defense. <br>
-    At MIT, I studied product design and machine learning for disaster response technology development. In the military, I led cross-functional teams and analytical studies. In the tech world now, I lead enterprise-level transformations for companies to become frontier and implement the latest in AI and agents at scale. I work with various organizations for research on bias detection in algorithms and for outreach and community development in STEM programs. <br>
+    I am a technology leader with experience at Microsoft, NASA, MIT, and the Department of Defense. At MIT, I studied product design and machine learning for disaster response technology development, with some of my work published [here](https://dspace.mit.edu/handle/1721.1/122221). In the military, I led cross-functional teams and analytical studies. In the tech world now, I lead enterprise-level transformations for companies to become frontier and implement the latest in AI and agents at scale, follow my best practices and the latest on AI via my [Medium page](https://medium.com/@gabycbarrera). I work with various organizations for research on bias detection in algorithms and for outreach and community development in STEM programs. <br>
   </p>
 </section>
 
