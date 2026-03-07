@@ -37,12 +37,12 @@ My background spans military operations research, policy, applied machine learni
 
 | Certification | Issuer |
 |---|---|
-| [Azure AI Engineer Associate](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/) | Microsoft |
-| [Cloud Digital Leader](https://cloud.google.com/learn/certification/cloud-digital-leader) | Google |
-| [Azure Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/) | Microsoft |
-| [Applied Data Science Program](https://professional.mit.edu/programs/short-programs/applied-data-science) | MIT |
+| [Azure AI Engineer Associate](https://learn.microsoft.com/en-us/users/gabrielabarreragutierrez-2873/credentials/85a0233599ead014?ref=https%3A%2F%2Fwww.linkedin.com%2F) | Microsoft |
+| [Cloud Digital Leader](https://www.credly.com/badges/97c3ecca-8163-469d-b827-ab37cf3f2ca1/public_url) | Google |
+| [Azure AI Fundamentals](https://learn.microsoft.com/en-us/users/gabrielabarreragutierrez-2873/credentials/f805e2c6fde7335f?ref=https%3A%2F%2Fwww.linkedin.com%2F) | Microsoft |
+| [Applied Data Science Program](https://credentials.professional.mit.edu/3292759c-fc4b-42fc-92ca-b739f7c53c18#acc.HcpLXPE3) | MIT |
 | Generative AI: Introduction & Applications | Coursera |
-| [Python for Data Science, AI & Development](https://www.coursera.org/learn/python-for-applied-data-science-ai) | IBM / Coursera |
+| [Python for Data Science, AI & Development](https://coursera.org/share/b558bef8f848b51b768d63ebcb61867d) | IBM / Coursera |
 
 ---
 
