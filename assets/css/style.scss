@@ -205,6 +205,15 @@ a:hover {
   .gallery-hero h1 {
     font-size: 2.2rem;
   }
+  .featured-card {
+    flex-direction: column;
+  }
+
+  /* Optional: make the image full-width instead of constrained */
+  .featured-card > div {
+    flex: none;
+    width: 100%;
+  }
 }
 
 .demo-btn {
