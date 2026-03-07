@@ -11,7 +11,7 @@ title: Projects
 <section class="gallery">
 
   <!-- Veteran Tech Transition Tool — Featured Card -->
-  <div class="gallery-card featured-card" style="grid-column: 1 / -1; display: flex; gap: 2rem; align-items: center; padding: 2rem;">
+      <div class="gallery-card featured-card" style="grid-column: 1 / -1; display: flex; gap: 2rem; align-items: center; padding: 2rem;">
       <div style="flex: 1; min-width: 0;">
         <span style="font-family: monospace; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.1em; color: #c05c3a;">Featured Project</span>
         <h2 style="margin-top: 0.5rem;">Veteran Tech Transition Tool</h2>
