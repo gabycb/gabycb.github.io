@@ -5,7 +5,7 @@ title: Projects
 <section class="gallery-hero">
   <h1>Selected Work</h1>
   <p>
-    These are personal side projects, as well parts of what I can share from Hackathons or other projects. They cover quick demos using agents, explorations in AI systems, decision architecture, and applied research.
+    These are some of my side projects, as well parts of what I can share from Hackathons or other work. They cover quick demos using agents, explorations in AI systems, decision architecture, and applied research.
   </p>
 </section>
 <section class="gallery">
