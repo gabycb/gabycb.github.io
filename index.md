@@ -48,7 +48,7 @@ layout: default
 <!-- Contact Panel -->
 <section class="block contact">
   <h2>Connect</h2>
-  <p> <a href="https://www.linkedin.com/in/gabriela-cbarrera" target="_blank">
+  <p> <a href="https://www.linkedin.com/in/gabriela-c-barrera" target="_blank">
   <i class="fa-brands fa-linkedin"></i> LinkedIn
 </a> </p>
   <p><a href="mailto:gabriela.c.barreragutierrez@gmail.com">
