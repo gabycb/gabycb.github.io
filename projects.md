@@ -20,7 +20,7 @@ title: Projects
           👾AI-powered resource built on real lessons from veterans who made the leap to big tech and startups. <strong>Ask anything</strong>: roles, resume, networking, interviews, compensation. <br>
           🔧Work in progress, demo version definitely makes mistakes.
         </p>
-        <a href="https://claude.ai/public/artifacts/c040b56e-3330-45ea-98d4-39913916616e" target="_blank" class="demo-btn">View Live Demo →</a>
+        <a href="https://claude.ai/public/artifacts/e44a0346-bc63-43b6-b889-87a9373d3103" target="_blank" class="demo-btn">View Live Demo →</a>
 
   </div>
       <div style="flex: 1; min-width: 0;">
