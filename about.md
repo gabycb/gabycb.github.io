@@ -19,6 +19,18 @@ My background spans military operations research, policy, applied machine learni
 
 ---
 
+## 🛡️ My Approach to AI
+
+I think about AI safety the way I learned to think about decisions in the Army: **what happens when this system fails, and who gets hurt?**
+
+Operations research taught me to model decisions under uncertainty. Military planning taught me that the consequences of bad decisions fall hardest on the people with the least power to push back. Applied ML research at MIT taught me that the gap between a model that works in a lab and one that works for real people in crisis is enormous — and bridging that gap is where the actual engineering challenge lives.
+
+That's why I care about evaluation frameworks, red-teaming, bias detection, and governance — not as compliance checkboxes, but as the engineering discipline that determines whether AI systems are actually *helpful, honest, and harmless* in practice. I've done this work across domains: adversarial testing of LLMs, bias bounty challenges, AI governance for regulated industries, and agent evaluation systems for mission-critical decisions.
+
+The best AI safety work isn't theoretical. It's built by people who've seen what happens when systems fail in high-stakes environments. I've been in those environments my whole career.
+
+---
+
 ## 🎓 Education
 
 **[Massachusetts Institute of Technology](https://www.mit.edu/)** — Cambridge, MA
