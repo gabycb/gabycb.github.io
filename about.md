@@ -3,6 +3,8 @@ layout: default
 title: About
 ---
 
+<div class="about-content">
+
 # About Me
 
 I didn't take a straight path to tech, and *sabes que*, that's my biggest 🏋🏽‍♀️advantage.
@@ -53,5 +55,6 @@ My background spans military operations research, policy, applied machine learni
 
 ---
 
-*Back to [🏠 Home](/)* <br>
-*Go to [Projects](/projects.md)*
+*Back to [Home](/)* · *[Projects](/projects)*
+
+</div>
