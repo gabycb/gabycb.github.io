@@ -12,6 +12,7 @@ layout: default
     <div class="hero-links">
       <a href="/about">About</a>
       <a href="/projects">Projects</a>
+      <a href="/journal">Journal</a>
       <a href="https://www.linkedin.com/in/gabriela-c-barrera" target="_blank">LinkedIn</a>
     </div>
   </div>
