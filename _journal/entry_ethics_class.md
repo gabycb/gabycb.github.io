@@ -2,6 +2,8 @@
 title: Lessons from an ethics course and practical implementations for fellow technologists
 date: Nov 6, 2026
 ---
+<div class="about-content" markdown="1">
+  
 ## Intro
 If you know me and have seen my calendar, then you know how ya girl is busy. I rarely take time to pause or stop and think. I know this is one of my flaws (thanks Brene Brown for helping me embrace my flaws, see her book [Dare to Lead](https://brenebrown.com/hubs/dare-to-lead/). So, I must force myself to do what does not come naturally, which is why I signed up for a course on ethics from Stanford, link to course [here](https://online.stanford.edu/courses/soe-xetech0001-ethics-technology-public-policy-practitioners). Only in a class would I stop and have the opportunity to think through things instead of jumping in right into the deep-end, which is how I usually take part in anything tech related (and almost always, ends up being a big mistake, huge). I want to share two main takeaways from this course relevant for my fellow tech practitioners in this age of AI: moral agency for human responsibility, and the messiness in trying to balance the harms and benefits of technology like generative AI. I plan to implement some easy and some hard lessons gleaned as part of these takeaways, and I’m sharing these so you can also benefit from the interactions I was lucky to have with the brilliant minds and inspiring leaders among the lecturers, professors, and fellow students in this course.
 
