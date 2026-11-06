@@ -30,16 +30,16 @@ If you have thoughts, feedback, or other advice on how I can keep learning or if
 - [AI and Society Institute](https://www.ens.psl.eu/en/research/research-ens/l-ens-pole-d-excellence-de-recherche-et-de-formation-sur-l-ia/ai-and-society), and [Florence G'sell](https://cyber.fsi.stanford.edu/people/florence-gsell).
 
 ### Reading List
-- The Ones Who Walk Away from Omelas, by Ursula K. LeGuin from The Wind's Twelve Quarters.
-- Reich, Sahami, and Weinstein, "System Error." 2021, HarperCollins Books.
+- The Ones Who Walk Away from Omelas, by Ursula K. LeGuin from The Wind's Twelve Quarters. [PDF](https://shsdavisapes.pbworks.com/f/Omelas.pdf).
+- [Reich, Sahami, and Weinstein, "System Error." 2021, HarperCollins Books.](https://politicalscience.stanford.edu/publications/system-error-where-big-tech-went-wrong-and-how-we-can-reboot).
 - Hiring by Machine Case Study, University Center for Human Values (UCHV) and the Center for Information Technology Policy (CITP) at Princeton, [PDF](https://aiethics.princeton.edu/wp-content/uploads/sites/587/2018/12/Princeton-AI-Ethics-Case-Study-5.pdf).  
 - Raji, I. D., Xu, P., Honigsberg, C., & Ho, D. (2022, July). Outsider oversight: Designing a third-party audit ecosystem for ai governance. In Proceedings of the 2022 AAAI/ACM Conference on AI, Ethics, and Society (pp. 557-571). [DOI](https://dl.acm.org/doi/10.1145/3514094.3534181).
 - [Data Privacy and Foundation Models: Can We Have Both?](https://hai.stanford.edu/policy/data-privacy-and-foundation-models-can-we-have-both) Jennifer King (2026).
 - [404 Media Article 1](https://www.404media.co/ice-taps-into-nationwide-ai-enabled-camera-network-data-shows/) ICE Taps into Nationwide AI-Enabled Camera Network, Data Shows, Jason Koebler May 27, 2025.
 - [404 Media Article 2](https://www.404media.co/a-secretive-dhs-predictive-policing-unit-is-analyzing-americans-financial-habits-and-pulling-them-over/) A Secretive DHS ‘Predictive Policing’ Unit is Analyzing Americans’ Financial Habits and Pulling Them Over, Joseph Cox Sep 8, 2026.
 - [404 Media Article 3](https://www.404media.co/larry-ellisons-ai-powered-surveillance-dystopia-is-already-here/) Larry Ellison's AI-Powered Surveillance Dystopia Is Already Here, Jason Koebler, Sep 17, 2024 at 9:25 AM.
-- Florence G’Sell, (2024) Regulating Under Uncertainty: Governance Options for Generative AI, Stanford Cyber Policy Center, Chapter 1.
-- Seth Lazar (2025) Anticipatory AI Ethics: Steering AI ethics towards the technological horizon April 24, 2025.
+- Florence G’Sell, (2024) Regulating Under Uncertainty: Governance Options for Generative AI, Stanford Cyber Policy Center. [Report](https://cyber.fsi.stanford.edu/content/regulating-under-uncertainty-governance-options-generative-ai).
+- Seth Lazar (2025) Anticipatory AI Ethics: Steering AI ethics towards the technological horizon April 24, 2025. [Publication](https://knightcolumbia.org/content/anticipatory-ai-ethics).
 - Kevin Frazier, “We’re Not Ready for AI Liability,” AI Frontiers, June 4, 2025. [Link](https://ai-frontiers.org/articles/options-for-ai-liability).
 - Gabriel Weil, “The Case for AI Liability,” AI Frontiers, June 12, 2025 (to be read together, as Weil responds to Frazier). [Link](https://ai-frontiers.org/articles/case-for-ai-liability).
 - Acemoglu, D., & Johnson, S. (2023, October 25). Choosing AI’s impact on the future of work. Stanford Social Innovation Review. [DOI](https://doi.org/10.48558/N8MF-TW30).
