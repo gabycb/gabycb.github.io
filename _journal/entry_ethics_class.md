@@ -21,7 +21,7 @@ With that said, among the many unknowns and unpredictability in this space, this
 
 ## Conclusion
 This is not a comprehensive nor cohesive reflection of my journey in learning about ethics and technology. It’s a start, an exciting one that is now brimming with possibilities and imagination I did not have before this course. Like N.K. Jemisin says, “let’s get to work.”
-If you have thoughts, feedback, or other advice on how I can keep learning or if you want to add any comments or notes, please contribute via github entry below. Comments can even be anonymous (note: all submissions are reviewed by me before publishing on this page). This is a start to a discussion with my fellow humans working with AI who are also wondering about moral agency and responsibility.
+If you have thoughts, feedback, or other advice on how I can keep learning or if you want to add any comments or notes, please contact me. This is a start to a discussion with my fellow humans working with AI who are also wondering about moral agency and responsibility.
 
 ## Resources and Shared Links
 - [DAIR Institute](https://dair-institute.org/) and [Dr. Timnit Gebru](https://dair-institute.org/team/timnit-gebru/); Associated class reading: Raji, I. D., Smart, A., White, R. N., Mitchell, M., Gebru, T., Hutchinson, B., Smith-Loud, J., Theron, D., & Barnes, P. (2020). Closing the AI accountability gap: Defining an end-to-end framework for internal algorithmic auditing. Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency, 33–44. [DOI](https://doi.org/10.1145/3351095.3372873).
