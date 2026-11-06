@@ -13,3 +13,15 @@ header_pages:
   - about.md
 
 markdown: kramdown
+
+collections:
+  journal:
+    output: true
+    permalink: /journal/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: journal
+    values:
+      layout: default   # change to whatever layout projects.md uses
