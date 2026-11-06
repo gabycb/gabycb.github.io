@@ -3,7 +3,6 @@ layout: default
 title: Journal
 permalink: /journal
 ---
-<div class="about-content" markdown="1">
 
 # Journal
 
